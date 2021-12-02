@@ -1,0 +1,12 @@
+{
+    "name": "product-info_project/product-info_project",
+    "type": "project",
+    "description": "A new project",
+    "keywords": [],
+    "license": "",
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {"App\\": "app/"}
+    }
+}

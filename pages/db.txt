@@ -1,0 +1,1 @@
+Laptop, 70000, 1, Computer, Apple , ../assets/images/01.jpg$Laptop, 50000, 1, Computer, Lenevo, ../assets/images/02.jpg$
